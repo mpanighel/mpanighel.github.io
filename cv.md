@@ -52,20 +52,22 @@
 ### Teaching Assistant
 
 #### University of Luxembourg, Luxembourg
-2025 – 2026 | Physics (Department of Engineering)
-2024 – 2025 | Experimental Physics 1a/1b (Department of Physics and Material Science)
+
+2025&nbsp;–&nbsp;2026 | Physics (Department of Engineering)
+2024&nbsp;–&nbsp;2025 | Experimental Physics 1a/1b (Department of Physics and Material Science)
 
 #### University of Trieste, Italy
-2020 – 2023 | Newtonian Physics (Department of Physics)
-2018 – 2022 | Solid State Physics Laboratory (Department of Physics)
+
+2020&nbsp;–&nbsp;2023 | Newtonian Physics (Department of Physics)
+2018&nbsp;–&nbsp;2022 | Solid State Physics Laboratory (Department of Physics)
 
 ### Supervisor
 
 **Post-doctoral fellow** | Valeria Chesnyak (2024) (now Post-doctoral fellow at PNNL, USA) “Study of reactivity of Co-doped graphene and small Co clusters on graphene”.
 **Pre-doctoral fellow** | Stefano Vigneri (2023) (now PhD student at CNR, Italy) “First STM measurement tests during gas exposure at 1-10 Torrs”.
 **PhD students** | 
-2021 – 2023 | Valeria Chesnyak (now Post-doctoral fellow at PNNL, USA) [*From clusters to single atoms: Cobalt on carbon-modified nickel surfaces*](https://hdl.handle.net/11368/3069228)
-2018 – 2020 | Sara Fiori (now MSCA fellow at ICN2, Spain) [*N-doped Graphene on Ni: growth, structure and reactivity*](https://hdl.handle.net/11368/2982138)
+2021&nbsp;–&nbsp;2023 | Valeria Chesnyak (now Post-doctoral fellow at PNNL, USA) [*From clusters to single atoms: Cobalt on carbon-modified nickel surfaces*](https://hdl.handle.net/11368/3069228)
+2018&nbsp;–&nbsp;2020 | Sara Fiori (now MSCA fellow at ICN2, Spain) [*N-doped Graphene on Ni: growth, structure and reactivity*](https://hdl.handle.net/11368/2982138)
 **Master students** | A. Namar (2022), D. Povoledo (2021), T. Rodani (2020)
 **Bachelor students** | M. Tallone (2022), D. Irto (2020), T. Zio (2020), F. Armillotta (2017)
 
@@ -86,16 +88,17 @@
 
 - **Talks:** 16 (7 invited)
 - **Peer-reviewed papers:** 42
+
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36659668800) | [WebOfScience](https://www.webofscience.com/wos/author/record/J-9767-2015) | [Scholar](https://scholar.google.com.sg/citations?user=actP_ccAAAAJ&hl=en) | [ORBilu](https://orbilu.uni.lu/profile?uid=50079594)
 
 ## PROJECTS PARTICIPATION
 
-2024 – 2026 | LION, Light on Perovskite, 600 k€, Fonds National de la Recherche, **Postdoc**
-2023 – 2024 | NFFA-DI, Nano Foundries and Fine Analysis-Digital Infrastructure, 34 M€, Ministero Università e Ricerca, **Data Management team**
-2021 – 2024 | NFFA-Europe Pilot, 15 M€, European Commission H2020, **Task leader WP11** “Closing the environmental-gap in microscopy experiments”, **Data Management team**
-2019 – 2022 | MADAM, Metal Activated 2D cArbon-based platforMs, 2 M€, Ministero Istruzione Università e Ricerca, **Postdoc**
-2017 – 2021 | NFFA-Europe, Nano Foundries and Fine Analysis, 10 M€, European Commission, H2020, **Data Management team**
-2017 – 2017 | NFFA-Trieste, 2 M€/y, Ministero Istruzione Università e Ricerca, **Postdoc**
-2016 – 2017 | FUNMOLDEV, Functional Molecular Nanostructures for Optoelectronic Devices, 181 k€, Ministerio Economía, Industria y Competitividad, **Postdoc**
-2015 – 2016 | SGR 2014-2016, 19 k€, Agència de Gestió d'Ajuts Universitaris i de Recerca, **Postdoc**
-2012 – 2014 | SUPRACARBON, Supramolecularly templated synthesis of homochiral carbon nanotubes for photovoltaic applications, 192 k€, Ministero Istruzione Università e Ricerca, **PhD student**
+2024&nbsp;–&nbsp;2026 | LION, Light on Perovskite, 600 k€, Fonds National de la Recherche, **Postdoc**
+2023&nbsp;–&nbsp;2024 | NFFA-DI, Nano Foundries and Fine Analysis-Digital Infrastructure, 34 M€, Ministero Università e Ricerca, **Data Management team**
+2021&nbsp;–&nbsp;2024 | NFFA-Europe Pilot, 15 M€, European Commission H2020, **Task leader WP11** “Closing the environmental-gap in microscopy experiments”, **Data Management team**
+2019&nbsp;–&nbsp;2022 | MADAM, Metal Activated 2D cArbon-based platforMs, 2 M€, Ministero Istruzione Università e Ricerca, **Postdoc**
+2017&nbsp;–&nbsp;2021 | NFFA-Europe, Nano Foundries and Fine Analysis, 10 M€, European Commission, H2020, **Data Management team**
+2017&nbsp;–&nbsp;2017 | NFFA-Trieste, 2 M€/y, Ministero Istruzione Università e Ricerca, **Postdoc**
+2016&nbsp;–&nbsp;2017 | FUNMOLDEV, Functional Molecular Nanostructures for Optoelectronic Devices, 181 k€, Ministerio Economía, Industria y Competitividad, **Postdoc**
+2015&nbsp;–&nbsp;2016 | SGR 2014-2016, 19 k€, Agència de Gestió d'Ajuts Universitaris i de Recerca, **Postdoc**
+2012&nbsp;–&nbsp;2014 | SUPRACARBON, Supramolecularly templated synthesis of homochiral carbon nanotubes for photovoltaic applications, 192 k€, Ministero Istruzione Università e Ricerca, **PhD student**
