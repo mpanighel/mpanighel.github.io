@@ -19,7 +19,7 @@
 #### 2023 - 2024 | Research Technologist
 #### 2017 - 2022 | Postdoctoral Researcher
   - In charge of an STM UHV setup. STM/STS and XPS/UPS of 2D materials grown by PVD/CVD.
-  - Data management team in [NFFA-Europe project](https://nffa.eu/).
+  - Task Leader and data management team in [NFFA-Europe project](https://nffa.eu/).
   - Group leader: [Dr. Cristina Africh](https://orcid.org/0000-0002-1922-2557)
 
 ### Catalan Institut of Nanoscience and Nanotechnology, Barcelona, Spain
@@ -63,13 +63,13 @@
 
 ### Supervisor
 
-**Post-doctoral fellow** | Valeria Chesnyak (2024) (now Post-doctoral fellow at PNNL, USA) “Study of reactivity of Co-doped graphene and small Co clusters on graphene”.
-**Pre-doctoral fellow** | Stefano Vigneri (2023) (now PhD student at CNR, Italy) “First STM measurement tests during gas exposure at 1-10 Torrs”.
+**Post-doctoral fellow** | [Valeria Chesnyak](https://orcid.org/0000-0003-0194-4575) (2024) (now Post-doctoral fellow at PNNL, USA) “Study of reactivity of Co-doped graphene and small Co clusters on graphene”.
+**Pre-doctoral fellow** | [Stefano Vigneri](https://orcid.org/0009-0004-9783-8869) (2023) (now PhD student at CNR, Italy) “First STM measurement tests during gas exposure at 1-10 Torrs”.
 **PhD students** | 
-2021&nbsp;–&nbsp;2023 | Valeria Chesnyak (now Post-doctoral fellow at PNNL, USA) [*From clusters to single atoms: Cobalt on carbon-modified nickel surfaces*](https://hdl.handle.net/11368/3069228)
-2018&nbsp;–&nbsp;2020 | Sara Fiori (now MSCA fellow at ICN2, Spain) [*N-doped Graphene on Ni: growth, structure and reactivity*](https://hdl.handle.net/11368/2982138)
-**Master students** | A. Namar (2022), D. Povoledo (2021), T. Rodani (2020)
-**Bachelor students** | M. Tallone (2022), D. Irto (2020), T. Zio (2020), F. Armillotta (2017)
+2021&nbsp;–&nbsp;2023 | [Valeria Chesnyak](https://orcid.org/0000-0003-0194-4575) (now Post-doctoral fellow at PNNL, USA) [*From clusters to single atoms: Cobalt on carbon-modified nickel surfaces*](https://hdl.handle.net/11368/3069228)
+2018&nbsp;–&nbsp;2020 | [Sara Fiori](https://www.scopus.com/authid/detail.uri?authorId=57195922013) (now MSCA fellow at ICN2, Spain) [*N-doped Graphene on Ni: growth, structure and reactivity*](https://hdl.handle.net/11368/2982138)
+**Master students** | [Alessandro Namar](https://orcid.org/0009-0009-1963-7283) (2022), Daniele Povoledo (2021), [Tommaso Rodani](https://www.scopus.com/authid/detail.uri?authorId=57222568778) (2020)
+**Bachelor students** | Marco Tallone (2022), Daniele Irto (2020), [Teresa Zio](https://orcid.org/0009-0006-7029-6806) (2020), [Francesco Armillotta](https://orcid.org/0000-0001-7247-6428) (2017)
 
 ## GRANTS
 
@@ -87,7 +87,7 @@
 ## PUBLICATIONS
 
 - **Talks:** 16 (7 invited)
-- **Peer-reviewed papers:** 42
+- **Peer-reviewed papers:** 43
 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36659668800) | [WebOfScience](https://www.webofscience.com/wos/author/record/J-9767-2015) | [Scholar](https://scholar.google.com.sg/citations?user=actP_ccAAAAJ&hl=en) | [ORBilu](https://orbilu.uni.lu/profile?uid=50079594)
 
